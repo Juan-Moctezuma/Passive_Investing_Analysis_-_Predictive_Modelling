@@ -1,1 +1,1 @@
-# Passive Investing Financial Analysis & Predictive_Modelling
+# Passive Investing Financial Analysis & Predictive Modelling
