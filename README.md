@@ -6,9 +6,13 @@ This project’s goal is motivate individuals to passively invest in index funds
 <b>Click the following link to see PowerPoint Presentation Summary (PDF format):</b> https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Analysis_%26_Prediction_Summary.pdf
 
 ### Jupyter Notebook Links
-<br/>
 The following bullet points list the Jupyter Notebooks containing the Python code with splitted steps, details that are not included in the powerpoint presentation, and comments: <br/>
-A) <b>Part 1 - Large Blend Financial Analysis</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part1-Large_Blend_Fund_Category-Financial_Analysis.ipynb
-<br/>
-B) <b>Part 2 - Large Value Financial Analysis</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part2-Large_Value_Fund_Category-Financial_Analysis.ipynb
-<br/>
+1. <b>Notebook 1 - Large Blend Financial Analysis</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part1-Large_Blend_Fund_Category-Financial_Analysis.ipynb
+2. <b>Notebook 2 - Large Value Financial Analysis</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part2-Large_Value_Fund_Category-Financial_Analysis.ipynb
+3. <b>Notebook 3 - Large Growth Financial Analysis</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part3-Large_Growth_Fund_Category-Financial_Analysis.ipynb
+4. <b>Notebook 4 - Large Blend Prediction Model (Random Forest Classifier)</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part4-Large_Blend_Fund_Category-Prediction_Random_Forest_Classifier_Model.ipynb
+5. <b>Notebook 5 - Large Value Prediction Model (Random Forest Classifier)</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part5-Large_Value_Fund_Category-Prediction_Random_Forest_Classifier_Model.ipynb
+6. <b>Notebook 6 - Large Growth Prediction Model (Random Forest Classifier)</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part6-Large_Growth_Fund_Category-Prediction_Random_Forest_Classifier_Model.ipynb
+7. <b>Notebook 7 - Large Blend Prediction Model (Simple Linear Regression)</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part7-Large_Blend_Fund_Category-Prediction_Linear_Regression_Model.ipynb
+8. <b>Notebook 8 - Large Value Prediction Model (Simple Linear Regression)</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part8-Large_Value_Fund_Category-Prediction_Linear_Regression_Model.ipynb
+9. <b>Notebook 9 - Large Growth Prediction Model (Simple Linear Regression)</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part9-Large_Growth_Fund_Category-Prediction_Linear_Regression_Model.ipynb
