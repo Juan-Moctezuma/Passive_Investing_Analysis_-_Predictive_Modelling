@@ -6,6 +6,7 @@ This project’s goal is motivate individuals to passively invest in index funds
 <b>Click the following link to see PowerPoint Presentation Summary (PDF format):</b> https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Analysis_%26_Prediction_Summary.pdf
 
 ### Jupyter Notebook Links
+<br/>
 The following bullet points list the Jupyter Notebooks containing the Python code with splitted steps, details that are not included in the powerpoint presentation, and comments: <br/>
 A) <b>Part 1 - Large Blend Financial Analysis</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part1-Large_Blend_Fund_Category-Financial_Analysis.ipynb
 <br/>
