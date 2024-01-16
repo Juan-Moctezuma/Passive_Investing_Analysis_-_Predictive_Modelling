@@ -32,7 +32,7 @@ The following bullet points list the Jupyter Notebooks containing the Python cod
 ### Deliverables or Sample Data Products (click on the download / down arrow symbol on the gray panel after clicking the link)
 * <b>Historical data source</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Cleaned_Historical_Data_Source.xlsx
 * <b>Financial data storytelling file</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Financial_Analysis-Data_Storytelling.xlsx
-* <b>Individual price analysis folder (multiple files) </b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/tree/main/Individual_Price_Analysis
+* <b>Individual price analysis folder (multiple files)</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/tree/main/Individual_Price_Analysis
 
 ### Machine Learning (M.L.) Models
 1. <b>Random Forest Classifier</b> - M.L. method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time. Then when it comes to testing, it will try to perform a similar action. For classification tasks, the output of the random forest is the class selected by most trees. Therefore, the output of multiple decision trees reach a single result - in this case the output is the probability for share prices to increment in the future based on historical data patterns raging from 1 or 2 decades ago. <img src="Images/decision_tree.png" width="65%">
@@ -43,14 +43,28 @@ The following bullet points list the Jupyter Notebooks containing the Python cod
    * Excel
    * PowerPoint
 2. Jupyter Notebook (Python 3)
-3. Python 3 for data analysis & machine learning (data science)
+3. Python 3 dependencies or libraries:
+   * pandas 1.5.3
+   * numpy 1.21.6
+   * matplotlib 3.6.3
+   * seaborn 0.12.2
+   * yfinance 0.2.17
+   * scikit-learn (sklearn) 1.2.2 
+   * scipy 1.9.1
 
 ### Other Knowledge required for the completion of this project 
-1. Applied Mathematics & Statistics
-2. Machine Learning & Data Science Methods
-3. Programming (Python 3)
-5. Data Analytics
-6. Data Manipulation
+1. Applied Mathematics (finance-related formulas) & Statistics
+2. Machine Learning Methods (training & testing)
+3. Programming (Python 3) or writing code
+5. Data Analytics & Data Visualization
+6. Data Manipulation (the term refers to the action of getting raw data from a source, like Yahoo, and converting it into an output or deliverable)
 7. Finance & Investments
+
+### Learning outcomes
+1. Data-driven decision making based on statistical & predictive modelling
+2. Improvement on finance-related concepts
+3. Improvement on writing & communication skills
+4. Data storytelling (using data to explain why passive investing is a good idea)
+5. Applying machine learning / prediction models for finance-related concepts
 
 
