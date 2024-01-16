@@ -16,3 +16,11 @@ The following bullet points list the Jupyter Notebooks containing the Python cod
 * <b>Notebook 7 - Large Blend Prediction Model (Simple Linear Regression)</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part7-Large_Blend_Fund_Category-Prediction_Linear_Regression_Model.ipynb
 * <b>Notebook 8 - Large Value Prediction Model (Simple Linear Regression)</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part8-Large_Value_Fund_Category-Prediction_Linear_Regression_Model.ipynb
 * <b>Notebook 9 - Large Growth Prediction Model (Simple Linear Regression)</b> : https://github.com/Juan-Moctezuma/Passive_Investing_Analysis_-_Predictive_Modelling/blob/main/Part9-Large_Growth_Fund_Category-Prediction_Linear_Regression_Model.ipynb
+
+### Machine Learning (M.L.) Models
+1. Random Forest Classifier - M.L. method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time. Then when it comes to testing, it will try to perform a similar action. For classification tasks, the output of the random forest is the class selected by most trees. Therefore, the output of multiple decision trees reach a single result - in this case the output is the probability for share prices to increment in the future based on historical data patterns raging from 1 or 2 decades ago. <img src="Images/decision_tree.png" width="80%">
+2. Simple Linear Regression - M.L. method that provides a linear relationship between an independent variable and a dependent variable to predict the outcome of future events. model predicts the value of the dependent variable, which is the response or outcome variable being analyzed or studied & simulates a mathematical relationship between variables and makes predictions for continuous or numeric variables such as sales, salary, age, product price, etc. In this case, our prediction is based on the following question - Will share prices continue to increase on the long run?
+
+
+
+
